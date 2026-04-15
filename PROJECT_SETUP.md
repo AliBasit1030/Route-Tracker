@@ -1,6 +1,6 @@
-# CycleRoute Tracker
+# MyApp (Maps Cycle Location)
 
-CycleRoute Tracker is a React Native MVP for cyclists and riders who need live GPS tracking, a real road route on the map, and ride progress feedback without relying on Google Maps.
+MyApp is a React Native MVP for cyclists and riders who need live GPS tracking, a real road route on the map, and ride progress feedback without relying on Google Maps.
 
 ## Project Summary
 

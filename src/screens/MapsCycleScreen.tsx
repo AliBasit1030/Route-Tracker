@@ -464,7 +464,7 @@ const MapsCycleScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.title}>CycleRoute Tracker</Text>
+        <Text style={styles.title}>Maps Cycle Location</Text>
         <TouchableOpacity style={[styles.button, tracking && styles.buttonActive]} onPress={tracking ? stopTracking : startTracking}>
           <Text style={styles.buttonText}>{tracking ? 'Stop Live Tracking' : 'Start Live Tracking'}</Text>
         </TouchableOpacity>
